@@ -2,6 +2,7 @@ io.github.cottonmc.cotton.gui
 io.github.cottonmc.cotton.gui.client
 io.github.cottonmc.cotton.gui.client.modmenu
 io.github.cottonmc.cotton.gui.impl
+io.github.cottonmc.cotton.gui.impl.access
 io.github.cottonmc.cotton.gui.widget
 io.github.cottonmc.cotton.gui.widget.data
 io.github.cottonmc.cotton.gui.widget.icon
