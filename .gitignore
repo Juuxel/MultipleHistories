@@ -16,7 +16,9 @@
 !/gradlew.bat
 !/HEADER
 !/LICENSE
+!/LICENSE.LOOM
 !/README.md
+!/README.LOOM.md
 !/settings.gradle
 !/Jenkinsfile
 !/checkstyle.xml
